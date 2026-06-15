@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/ai-tools-global/_next/static/chunks/05-c3ty_6dwfk.js","/ai-tools-global/_next/static/chunks/1zq0p0gxk-pnj.js"],"ViewportBoundary"]
+3:I[97367,["/ai-tools-global/_next/static/chunks/05-c3ty_6dwfk.js","/ai-tools-global/_next/static/chunks/1zq0p0gxk-pnj.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Canva | AI Tools Global"}],["$","meta","1",{"name":"description","content":"Online design platform with AI magic. Create graphics, presentations, social media posts, and videos with drag-and-drop simplicity and AI-powered design suggestions."}],["$","meta","2",{"name":"keywords","content":"AI tools,best AI 2026,AI directory,ChatGPT,Claude,Cursor,Midjourney"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n-VDhDMA9TMdc8Utg3MCT"}

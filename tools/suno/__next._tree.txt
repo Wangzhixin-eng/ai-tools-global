@@ -1,0 +1,2 @@
+:HL["/ai-tools-global/_next/static/chunks/1apvv8e_asfk6.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"tools","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"suno","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"n-VDhDMA9TMdc8Utg3MCT"}
